@@ -1,16 +1,18 @@
-## Hi there 👋
 
-<!--
-**FelipeArango17/FelipeArango17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hey, I'm Felipe 
 
-Here are some ideas to get you started:
+Software Engineering student (5th semester)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Medellín, Antioquia, Colombia.
+
+
+Interested in backend development, automation, and AI agents
+
+I’m a Software Engineering student passionate about building backend systems, automations, and AI-powered tools.
+I enjoy learning new technologies and creating projects that solve real-world problems.
+
+Currently Learning
+
+	•	AI Agents with Claude AI
+	•	Automation with n8n
+	•	Cloud storage and cloud services
