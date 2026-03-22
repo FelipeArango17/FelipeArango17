@@ -16,3 +16,5 @@ Currently Learning
 	•	AI Agents with Claude AI
 	•	Automation with n8n
 	•	Cloud storage and cloud services
+
+![JavaScript Essentials 1](javascript-essentials-1.png)
