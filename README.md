@@ -18,4 +18,4 @@ Currently Learning
 	•	Cloud storage and cloud services
 
 ![JavaScript Essentials 1](javascript-essentials-1.png)
-![HTML Badge](html-essentials.png)
+![HTML Badge](html-essentials-1.png)
